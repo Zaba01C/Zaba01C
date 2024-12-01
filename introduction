@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+  printf("This is useless.. Just go on.")
+
+  return 0;
+}
+
+Output: This is not useless.. Just don't go on.
